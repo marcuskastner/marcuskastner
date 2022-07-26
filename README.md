@@ -18,7 +18,8 @@ After teaching myself the fundamental of HTML, CSS and Javascript I moved on to 
 
 * HTML
 * CSS
-* Javascript       * React
+* Javascript       
+* React
 * API
 * Graphql
 * State Context
@@ -35,4 +36,4 @@ I think the biggest accomplishment for myself with this project was that I had t
 Overally I am really happy with the project and I feel that it went a long way towards showing my proficiencies as a well rounded web developer.
 	
 ## What I'm Working On
-Currently I am working on learning three.js.
+Currently I am working on learning three.js, blender and other 3d tech.
