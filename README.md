@@ -18,8 +18,7 @@ After teaching myself the fundamental of HTML, CSS and Javascript I moved on to 
 
 * HTML
 * CSS
-* Javascript
-* React
+* Javascript       * React
 * API
 * Graphql
 * State Context
