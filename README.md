@@ -14,6 +14,7 @@ I am making a transition from teaching chemistry and am seeking fulltime employm
 
 After teaching myself the fundamental of HTML, CSS and Javascript I moved on to building sites with Gatsby on the front end and pulling data from Sanity on the backend. I have also developed a react native app and used Firebase for user authentication services. 
 
+<details>
 ## Technologies
 
 * HTML
@@ -37,3 +38,4 @@ Overally I am really happy with the project and I feel that it went a long way t
 	
 ## What I'm Working On
 Currently I am working on learning three.js, blender and other 3d tech.
+</details>
