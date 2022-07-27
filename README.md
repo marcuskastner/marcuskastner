@@ -19,10 +19,9 @@ After teaching myself the fundamental of HTML, CSS and Javascript I moved on to 
 
 * HTML
 * CSS
-* Javascript
-<details>       
+* Javascript   
 * React
-* API
+* REST API
 * Graphql
 * State Context
 * Gatsby
@@ -30,7 +29,7 @@ After teaching myself the fundamental of HTML, CSS and Javascript I moved on to 
 * Bootstrap
 * Stripe
 * React Native
-</details>
+
 ## What I'm Working On
 Currently I am working on learning three.js, blender and other 3d tech.
 
