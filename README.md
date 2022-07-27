@@ -9,17 +9,18 @@
 
 ## About Me
 My name is Marcus and I am currently a freelance Front End Web Developer.
-
+<details>
 I am making a transition from teaching chemistry and am seeking fulltime employment.
 
 After teaching myself the fundamental of HTML, CSS and Javascript I moved on to building sites with Gatsby on the front end and pulling data from Sanity on the backend. I have also developed a react native app and used Firebase for user authentication services. 
+</details>
 
-<details>
 ## Technologies
 
 * HTML
 * CSS
-* Javascript       
+* Javascript
+<details>       
 * React
 * API
 * Graphql
@@ -29,7 +30,7 @@ After teaching myself the fundamental of HTML, CSS and Javascript I moved on to 
 * Bootstrap
 * Stripe
 * React Native
-	
+</details>
 ## What I'm Working On
 Currently I am working on learning three.js, blender and other 3d tech.
-</details>
+
