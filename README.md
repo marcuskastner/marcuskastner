@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ![My Image](github_cover.png)
 
 ## Table of contents
