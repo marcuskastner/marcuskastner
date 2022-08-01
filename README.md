@@ -15,19 +15,9 @@ After teaching myself the fundamental of HTML, CSS and Javascript I moved on to 
 </details>
 
 ## Technologies
+HTML | CSS | Javascript | React
 <details>
-* HTML
-* CSS
-* Javascript   
-* React
-* REST API
-* Graphql
-* State Context
-* Gatsby
-* Sanity
-* Bootstrap
-* Stripe
-* React Native
+REST API | Graphql | State Context | Gatsby | Sanity | Bootstrap | Stripe | React Native | 
 </details>
 
 ## What I'm Working On
