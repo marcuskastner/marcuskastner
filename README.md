@@ -7,11 +7,13 @@
 
 
 ## About Me
-My name is Marcus and I am currently a freelance Front End Web Developer.
+My name is Marcus and I am a freelance Front End Web Developer.
 <details>
 I am making a transition from teaching chemistry and am seeking fulltime employment.
 
-After teaching myself the fundamental of HTML, CSS and Javascript I moved on to building sites with Gatsby on the front end and pulling data from Sanity on the backend. I have also developed a react native app and used Firebase for user authentication services. 
+I devote the same care and dedication that I showed my students to my code. My background in science education makes me an ideal hire as I am inquisitive, driven, and caring. 
+
+In my free time I focus on getting outside and love going for runs or getting in the ocean.
 </details>
 
 ## Technologies
