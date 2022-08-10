@@ -9,9 +9,7 @@
 ## About Me
 My name is Marcus and I am a freelance Front End Web Developer.
 <details>
-I am making a transition from teaching chemistry and am seeking fulltime employment.
-
-I devote the same care and dedication that I showed my students to my code. My background in science education makes me an ideal hire as I am inquisitive, driven, and caring. 
+Freelance Front End Developer with a passion for design and creativity. I love creating interesting and unique experiences through software and working with designers.
 
 In my free time I focus on getting outside and love going for runs or getting in the ocean.
 </details>
