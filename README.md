@@ -1,4 +1,4 @@
-![My Image](github_cover.png)
+![My Image](github_cover_2.png)
 
 ## Table of contents
 * [About Me](#about-me)
